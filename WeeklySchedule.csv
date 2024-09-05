@@ -1,0 +1,99 @@
+Date,homeTeam,homeStarter,homeSide,awayTeam,awayStarter,awaySide,Weekend,completed
+9/2,MIL,"Peralta, Freddy",RHP,STL,"Pallante, Andre",RHP,FALSE,Yes
+9/2,BAL,"Burnes, Corbin",RHP,CWS,"Flexen, Chris",RHP,FALSE,Yes
+9/2,ARI,"Rodriguez, Eduardo",LHP,LAD,"Flaherty, Jack",RHP,FALSE,Yes
+9/2,KC,"Wacha, Michael",RHP,CLE,"Williams, Gavin",RHP,FALSE,Yes
+9/2,CIN,"Aguiar, Julian",RHP,HOU,"Verlander, Justin",RHP,FALSE,Yes
+9/2,SD,"Musgrove, Joe",RHP,DET,"Madden, Ty",RHP,FALSE,Yes
+9/2,TB,"Littell, Zack",RHP,MIN,"Woods Richardson, Simeon",RHP,FALSE,Yes
+9/2,OAK,"Bido, Osvaldo",RHP,SEA,"Gilbert, Logan",RHP,FALSE,Yes
+9/2,NYM,"Severino, Luis",RHP,BOS,"Bello, Brayan",RHP,FALSE,Yes
+9/2,CHC,"Taillon, Jameson",RHP,PIT,"Jones, Jared",RHP,FALSE,Yes
+9/2,TEX,"Leiter, Jack",RHP,NYY,"Cole, Gerrit",RHP,FALSE,Yes
+9/3,BAL,"Povich, Cade",LHP,CWS,"Nastrini, Nick",RHP,FALSE,Yes
+9/3,MIA,"Meyer, Max",RHP,WAS,"Corbin, Patrick",LHP,FALSE,Yes
+9/3,TB,"Springs, Jeffrey",LHP,MIN,"Festa, David",RHP,FALSE,Yes
+9/3,TOR,"Bassitt, Chris",RHP,PHI,"Phillips, Tyler",RHP,FALSE,Yes
+9/3,NYM,"Peterson, David",LHP,BOS,"Crawford, Kutter",RHP,FALSE,Yes
+9/3,ATL,"Sale, Chris",LHP,COL,"Freeland, Kyle",LHP,FALSE,Yes
+9/3,KC,"Singer, Brady",RHP,CLE,"Bibee, Tanner",RHP,FALSE,Yes
+9/3,CHC,"Hendricks, Kyle",RHP,PIT,"Skenes, Paul",RHP,FALSE,Yes
+9/3,MIL,"Civale, Aaron",RHP,STL,"Matz, Steven",LHP,FALSE,Yes
+9/3,TEX,"Heaney, Andrew",LHP,NYY,"Rodon, Carlos",LHP,FALSE,Yes
+9/3,LAA,"Detmers, Reid",LHP,LAD,"Buehler, Walker",RHP,FALSE,Yes
+9/3,OAK,"Ginn, J.T.",RHP,SEA,"Castillo, Luis",RHP,FALSE,Yes
+9/3,SF,"Harrison, Kyle",LHP,ARI,"Nelson, Ryne",RHP,FALSE,Yes
+9/4,TOR,"Francis, Bowden",RHP,PHI,"Sanchez, Cristopher",LHP,FALSE,No
+9/4,BAL,"Suarez, Albert",RHP,CWS,"Cannon, Jonathan",RHP,FALSE,No
+9/4,CIN,"Martinez, Nick",RHP,HOU,"Arrighetti, Spencer",RHP,FALSE,No
+9/4,MIA,"Bellozo, Valente",RHP,WAS,"Gore, MacKenzie",LHP,FALSE,No
+9/4,TB,"Sulser, Cole",RHP,MIN,"Henriquez, Ronny",RHP,FALSE,No
+9/4,NYM,"Megill, Tylor",RHP,BOS,"Houck, Tanner",RHP,FALSE,No
+9/4,ATL,"Morton, Charlie",RHP,COL,"Blalock, Bradley",RHP,FALSE,No
+9/4,MIL,"Rea, Colin",RHP,STL,"Gray, Sonny",RHP,FALSE,No
+9/4,KC,"Lugo, Seth",RHP,CLE,"Lively, Ben",RHP,FALSE,No
+9/4,CHC,"Imanaga, Shota",LHP,PIT,"German, Domingo",RHP,FALSE,No
+9/4,TEX,"Eovaldi, Nathan",RHP,NYY,"Stroman, Marcus",RHP,FALSE,No
+9/4,LAA,"Canning, Griffin",RHP,LAD,"Miller, Bobby",RHP,FALSE,No
+9/4,SD,"Darvish, Yu",RHP,DET,"Montero, Keider",RHP,FALSE,No
+9/4,OAK,"Sears, JP",LHP,SEA,"Kirby, George",RHP,FALSE,No
+9/4,SF,"Birdsong, Hayden",RHP,ARI,"Gallen, Zac",RHP,FALSE,No
+9/4,,,,,,,FALSE,Yes
+9/4,,,,,,,FALSE,Yes
+9/4,,,,,,,FALSE,Yes
+9/4,,,,,,,FALSE,Yes
+9/4,,,,,,,FALSE,Yes
+9/4,,,,,,,FALSE,Yes
+9/4,,,,,,,FALSE,Yes
+9/4,,,,,,,FALSE,Yes
+9/4,,,,,,,FALSE,Yes
+9/4,,,,,,,FALSE,Yes
+9/4,,,,,,,FALSE,Yes
+9/4,,,,,,,FALSE,Yes
+9/4,,,,,,,FALSE,Yes
+9/4,,,,,,,FALSE,Yes
+9/4,,,,,,,FALSE,Yes
+9/4,,,,,,,FALSE,Yes
+9/4,,,,,,,FALSE,Yes
+9/4,,,,,,,FALSE,Yes
+9/4,,,,,,,FALSE,Yes
+9/4,,,,,,,FALSE,Yes
+9/4,,,,,,,FALSE,Yes
+9/4,,,,,,,FALSE,Yes
+9/4,,,,,,,FALSE,Yes
+9/4,,,,,,,FALSE,Yes
+9/4,,,,,,,FALSE,Yes
+9/4,,,,,,,FALSE,Yes
+9/4,,,,,,,FALSE,Yes
+9/4,,,,,,,FALSE,Yes
+9/4,,,,,,,FALSE,Yes
+9/4,,,,,,,FALSE,Yes
+9/4,,,,,,,FALSE,Yes
+9/4,,,,,,,FALSE,Yes
+9/4,,,,,,,FALSE,Yes
+9/4,,,,,,,FALSE,Yes
+9/4,,,,,,,FALSE,Yes
+9/4,,,,,,,FALSE,Yes
+9/4,,,,,,,FALSE,Yes
+9/4,,,,,,,FALSE,Yes
+9/4,,,,,,,FALSE,Yes
+9/4,,,,,,,FALSE,Yes
+9/4,,,,,,,FALSE,Yes
+9/4,,,,,,,FALSE,Yes
+9/4,,,,,,,FALSE,Yes
+9/4,,,,,,,FALSE,Yes
+9/4,,,,,,,FALSE,Yes
+9/4,,,,,,,FALSE,Yes
+9/4,,,,,,,FALSE,Yes
+9/4,,,,,,,FALSE,Yes
+9/4,,,,,,,FALSE,Yes
+9/4,,,,,,,FALSE,Yes
+9/4,,,,,,,FALSE,Yes
+9/4,,,,,,,FALSE,Yes
+9/4,,,,,,,FALSE,Yes
+9/4,,,,,,,FALSE,Yes
+9/4,,,,,,,FALSE,Yes
+9/4,,,,,,,FALSE,Yes
+9/4,,,,,,,FALSE,Yes
+9/4,,,,,,,FALSE,Yes
+9/4,,,,,,,FALSE,Yes
